@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📚 Library Management System
 
 A simple and user-friendly Library Management System built using HTML, CSS, and JavaScript.  
@@ -40,3 +41,6 @@ All data is stored locally in the browser.
 
 ### 👩‍💻 Developed by
 *Sargam Bhardwaj*
+=======
+# Library-Management-System
+>>>>>>> 8ff8ed621fdb0f1777e99340d6b5211600d58624
